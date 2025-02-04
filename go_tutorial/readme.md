@@ -4,7 +4,8 @@ This folder contains my notes and code while learning Go using the tutorial by *
 - (https://www.youtube.com/watch?v=8uiZC0l4Ajw&t=43s).
 
 ## Folder Structure
-- `/learn.go` - All practise code and notes
+- `/learn.go` - All practise code and
+- `/go_notes.md` - All notes regarding GO
 
 ## Goals
 - Understand Go basics
