@@ -40,3 +40,15 @@ func InitializeStore() *StorageService {
 	storeService.redisClient = redisClient
 	return storeService
 }
+
+func SaveUrlMapping(shortUrl string, originalUrl string, userId string){ 
+
+
+}
+
+
+func RetrieveInitialUrl(shortUrl string) string {
+
+
+
+}
