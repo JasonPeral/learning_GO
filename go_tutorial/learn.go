@@ -7,6 +7,6 @@
 // 6 - Simplicity
 
 //Packages and Module 
-//Packages are a collection of GO files
+//Packages are a collection of multiple GO files
 //And a collection of these packages are known as a module
 //When we are initializing our project we're really initializing a new module
